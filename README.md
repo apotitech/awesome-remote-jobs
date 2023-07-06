@@ -6,7 +6,7 @@ This comprehensive guide provides links to a variety of websites where you can f
 
 1. [General Remote Jobs](#general-remote-jobs)
 2. [Tech Specific Remote Jobs](#tech-specific-remote-jobs)
-3. [Design Specific Remote Jobs](#design-specific-remote-jobs)
+3. [Design Specific Remote Jobs](#design)
 4. [Freelance Marketplaces](#freelance-marketplaces)
 5. [A to Z Remote Jobs](#AtoZ-RemoteJobs.md)
 
