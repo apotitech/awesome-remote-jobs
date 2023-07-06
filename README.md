@@ -73,6 +73,8 @@ These platforms are ideal for freelancers looking for project-based remote work.
 
 ## A to Z Remote Jobs
 
+Here is an alphabetical list of Jobs offered by various companies around the world which accept remote applications.
+
 | Name                                         | Website                                                                                                  | Region                                       |
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | 10up                                         | https://10up.com/                                                                                        | Worldwide                                    |
